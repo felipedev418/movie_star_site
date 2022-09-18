@@ -19,13 +19,13 @@ MOVIE STAR using OMDB API
 
 ### Links
 
-- Solution URL: [https://github.com/ErysCode7/gpt3](https://github.com/ErysCode7/gpt3)
-- Live Site URL: [https://gpt3-modern-web.vercel.app/](https://gpt3-modern-web.vercel.app/)
+- Solution URL: [https://github.com/ErysCode7/movie-star](https://github.com/ErysCode7/movie-star)
+- Live Site URL: [https://movie-star-tawny.vercel.app/](https://movie-star-tawny.vercel.app/)
 
 1. Clone the repo
 
    ```sh
-   git clone git@github.com:ErysCode7/gpt3.git
+   git clone git@github.com:ErysCode7/movie-star.git
    ```
 
 2. Install NPM packages
