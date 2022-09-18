@@ -1,5 +1,5 @@
 {
-  "name": "movie-app",
+  "name": "movie-star",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,7 +14,8 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-redux": "^8.0.2",
-    "react-router-dom": "^6.4.0"
+    "react-router-dom": "^6.4.0",
+    "react-slick": "^0.29.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.17",
